@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Omar Abdelaziz, A computer science student, video editor and learner. 
+
+### 📫 Get In Touch
+You can find me there [Twitter](https://twitter.com/omarabdelaz1z), [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z). Also contact me by [Email](omarabdelaziz042@gmail.com)
 
 <!--
 **omarabdelaz1z/omarabdelaz1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
