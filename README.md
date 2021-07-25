@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Omar Abdelaziz, A computer science student and data enthusiast, video editor and learner. 
+### Hello There 👋 ALWAYS SAY HELLO
+I am Omar. A computer science student and data enthusiast, video editor and self-learner. 
 
 ### 📫 Get In Touch
 You can find me there [Twitter](https://twitter.com/omarabdelaz1z), [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z). Also contact me by [Email](mailto:omarabdelaziz042@gmail.com)
