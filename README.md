@@ -1,4 +1,4 @@
-### Hello There 👋 ALWAYS SAY HELLO
+### ALWAYS SAY HELLO 👋
 I am Omar. A computer science student and data enthusiast, video editor and self-learner. 
 
 ### 📫 Get In Touch
