@@ -1,5 +1,8 @@
 ### ALWAYS SAY HELLO 👋
 
++ Data Enthusiast
++ 🏅 Hacktoberfest 2021 Badge 🏅
+
 ### 📫 Get In Touch
 You can find me there [Twitter](https://twitter.com/omarabdelaz1z), [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z). Also contact me by [Email](mailto:omarabdelaziz042@gmail.com)
 
