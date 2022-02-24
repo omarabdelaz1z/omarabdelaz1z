@@ -4,7 +4,8 @@
 + Certified Graduate of Sprints/Knowledge Officer Backend Bootcamp
 
 ### 📫 Get In Touch
-You can find me there [Twitter](https://twitter.com/omarabdelaz1z), [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z). Also contact me by [Email](mailto:omarabdelaziz042@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z).
+- [Email](mailto:omarabdelaziz042@gmail.com)
 
 <!--
 **omarabdelaz1z/omarabdelaz1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
