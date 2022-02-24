@@ -4,7 +4,7 @@
 + Certified Graduate of Sprints/Knowledge Officer Backend Bootcamp
 
 ### 📫 Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z).
+- [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z)
 - [Email](mailto:omarabdelaziz042@gmail.com)
 
 <!--
