@@ -1,7 +1,8 @@
 ### ALWAYS SAY HELLO 👋
 
-+ 🏅 Hacktoberfest 2021 Badge 🏅
++ Hacktoberfest 2021 Badge 🏅
 + Certified Graduate of Sprints/Knowledge Officer Backend Bootcamp
++ Graduate Computer Science Student
 
 ### 📫 Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/omarabdelaz1z)
